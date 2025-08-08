@@ -59,7 +59,7 @@ You enter:
 - Brand: Maruti
 - Fuel Type: Petrol
 - Year: 2015
-- Kms Driven: 50,000
+- Kms Driven: 50000
 
 - for output here is the screenshot
 - <img width="1291" height="827" alt="image" src="https://github.com/user-attachments/assets/6fa8b93e-1eaf-4d12-8edc-99ef334b8301" />
