@@ -32,7 +32,7 @@ car-price-prediction/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/car-price-prediction.git
+git clone https://github.com/Aditya-raj123/car-price-prediction.git
 
 # 2. Navigate to the project directory
 cd car-price-prediction
